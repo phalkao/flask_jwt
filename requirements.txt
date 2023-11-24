@@ -1,0 +1,7 @@
+DateTime
+Flask
+Flask_SqlAlchemy
+Flasgger
+Werkzeug
+Uuid
+PyJwt
